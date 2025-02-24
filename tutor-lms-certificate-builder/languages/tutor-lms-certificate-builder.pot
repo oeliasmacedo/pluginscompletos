@@ -1,0 +1,789 @@
+# Copyright (C) 2025 Themeum
+# This file is distributed under the same license as the Tutor LMS Certificate Builder plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tutor LMS Certificate Builder 1.1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tutor-lms-certificate-builder\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-20T10:43:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: tutor-lms-certificate-builder\n"
+
+#. Plugin Name of the plugin
+msgid "Tutor LMS Certificate Builder"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://tutorlms.com/certificate-builder/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Tutor Drag and Drop Certificate Builder"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themeum"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeum.com/"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:85
+#: src/Ajax.php:85
+msgid "Permission Denied"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:147
+#: src/Ajax.php:147
+msgctxt "course-duration"
+msgid "hrs"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:148
+#: src/Ajax.php:148
+msgctxt "course-duration"
+msgid "min"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:149
+#: src/Ajax.php:149
+msgctxt "course-duration"
+msgid "sec"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:195
+#: build/tutor-lms-certificate-builder/src/Ajax.php:274
+#: src/Ajax.php:195
+#: src/Ajax.php:274
+msgid "Bad Request sent. Please try again."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:245
+#: src/Ajax.php:245
+msgid "Certificate Data Updated Successfully"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:249
+#: src/Ajax.php:249
+msgid "Something was wrong. Please try again."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:286
+#: src/Ajax.php:286
+msgid "Certificate data found."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:289
+#: src/Ajax.php:289
+msgid "No certificate data found."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Ajax.php:310
+#: src/Ajax.php:310
+msgid "Could not save preview due to invalid image."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:41
+#: build/tutor-lms-certificate-builder/src/Core.php:43
+#: build/tutor-lms-certificate-builder/src/Core.php:50
+#: src/Core.php:41
+#: src/Core.php:43
+#: src/Core.php:50
+msgid "Certificates"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:42
+#: build/tutor-lms-certificate-builder/src/Core.php:44
+#: src/Core.php:42
+#: src/Core.php:44
+msgid "Certificate"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:45
+#: build/tutor-lms-certificate-builder/src/Core.php:46
+#: src/Core.php:45
+#: src/Core.php:46
+msgid "Add New Certificate"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:47
+#: src/Core.php:47
+msgid "New Certificate"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:48
+#: src/Core.php:48
+msgid "Edit Certificate"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:49
+#: src/Core.php:49
+msgid "View Certificate"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:51
+#: src/Core.php:51
+msgid "Search Certificates"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:52
+#: src/Core.php:52
+msgid "Parent Certificates:"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:53
+#: src/Core.php:53
+msgid "No Certificates found."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:54
+#: src/Core.php:54
+msgid "No Certificates found in Trash."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Core.php:59
+#: src/Core.php:59
+msgid "Description."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/Editor.php:155
+#: src/Editor.php:155
+msgid "Untitled Template"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/ProIntegration.php:105
+#: build/tutor-lms-certificate-builder/templates/certificate-list-table.php:20
+#: src/ProIntegration.php:105
+#: templates/certificate-list-table.php:20
+msgid "All Certificates"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/ProIntegration.php:128
+#: src/ProIntegration.php:128
+msgid "Allow Instructors to Use Templates Created by the Admin"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/ProIntegration.php:131
+#: src/ProIntegration.php:131
+msgid "Enable instructors to use certificate templates built by admin. If disabled, instructors will be able to use only their own templates."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/ProIntegration.php:136
+#: src/ProIntegration.php:136
+msgid "Disable Certificate Creation for Instructors"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/ProIntegration.php:139
+#: src/ProIntegration.php:139
+msgid "When enabled, instructors will not have the ability to create or customize certificates for their courses."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/ProIntegration.php:144
+#: src/ProIntegration.php:144
+msgid "Hide Default Certificate Templates for Instructors"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/src/ProIntegration.php:147
+#: src/ProIntegration.php:147
+msgid "When enabled, default certificate templates will be hidden from instructors."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/add-certificate-area.php:5
+#: templates/add-certificate-area.php:5
+msgid "Create Your Certificate"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/add-certificate-area.php:6
+#: templates/add-certificate-area.php:6
+msgid "In 3 Steps"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/add-certificate-area.php:9
+#: templates/add-certificate-area.php:9
+msgid "Select your favorite design"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/add-certificate-area.php:10
+#: templates/add-certificate-area.php:10
+msgid "Type in your text &amp; upload your signature"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/add-certificate-area.php:20
+#: build/tutor-lms-certificate-builder/templates/add-certificate-area.php:39
+#: templates/add-certificate-area.php:20
+#: templates/add-certificate-area.php:39
+msgid "Create certificate"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/add-certificate-area.php:30
+#: templates/add-certificate-area.php:30
+msgid "Create Your Certificate In 3 Steps"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/add-certificate-area.php:33
+#: templates/add-certificate-area.php:33
+msgid "Add instructor, Benefits , Requirements/Instructions, Targeted Audience, Materials Included"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/certificate-list-table.php:48
+#: templates/certificate-list-table.php:48
+msgid "Set certificate template status"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/certificate-list-table.php:50
+#: templates/certificate-list-table.php:50
+msgid "Draft"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/certificate-list-table.php:53
+#: templates/certificate-list-table.php:53
+msgid "Published"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/certificate-list-table.php:80
+#: templates/certificate-list-table.php:80
+msgid "Do You Want to Delete This Certificate?"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/certificate-list-table.php:81
+#: templates/certificate-list-table.php:81
+msgid "Are you sure you want to delete this certificate permanently from the site? Please confirm your choice."
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/certificate-list-table.php:83
+#: templates/certificate-list-table.php:83
+msgid "Yes, Delete This"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/certificate-list-table.php:115
+#: templates/certificate-list-table.php:115
+msgid "No certificate!"
+msgstr ""
+
+#: build/tutor-lms-certificate-builder/templates/editor.php:26
+#: templates/editor.php:26
+msgid "Certificate Builder"
+msgstr ""
+
+#: assets/editor/src/js/components/canvas/template-popover.js:117
+#: assets/editor/dist/main.min.js:1
+msgid "Category"
+msgstr ""
+
+#: assets/editor/src/js/components/canvas/template-popover.js:161
+#: assets/editor/dist/main.min.js:1
+msgid "Clear"
+msgstr ""
+
+#: assets/editor/src/js/components/canvas/template-popover.js:167
+#: assets/editor/dist/main.min.js:1
+msgid "Choose a Template"
+msgstr ""
+
+#: assets/editor/src/js/components/canvas/template-popover.js:188
+#: assets/editor/src/js/components/docker/templates/index.js:59
+#: assets/editor/dist/main.min.js:1
+msgid "Landscape"
+msgstr ""
+
+#: assets/editor/src/js/components/canvas/template-popover.js:209
+#: assets/editor/src/js/components/docker/templates/index.js:68
+#: assets/editor/dist/main.min.js:1
+msgid "Portrait"
+msgstr ""
+
+#: assets/editor/src/js/components/canvas/template-popover.js:223
+#: assets/editor/src/js/components/docker/search/index.js:14
+#: assets/editor/dist/main.min.js:1
+msgid "Search..."
+msgstr ""
+
+#: assets/editor/src/js/components/canvas/template-popover.js:238
+#: assets/editor/dist/main.min.js:1
+msgid "Create your own"
+msgstr ""
+
+#: assets/editor/src/js/components/canvas/template-popover.js:251
+#: assets/editor/src/js/components/canvas/template-popover.js:274
+#: assets/editor/src/js/components/canvas/template-popover.js:299
+#: assets/editor/dist/main.min.js:1
+msgid "Use this template"
+msgstr ""
+
+#: assets/editor/src/js/components/canvas/template-popover.js:259
+#: assets/editor/src/js/components/canvas/template-popover.js:282
+#: assets/editor/src/js/components/canvas/template-popover.js:307
+#: assets/editor/dist/main.min.js:1
+msgid "Preview now"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/backdrops/index.js:109
+#: assets/editor/dist/main.min.js:1
+msgid "Color"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/backdrops/index.js:183
+#: assets/editor/dist/main.min.js:1
+msgid "Pattern"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/backdrops/index.js:185
+#: assets/editor/src/js/components/docker/backdrops/index.js:204
+#: assets/editor/src/js/components/docker/shapes/index.js:93
+#: assets/editor/dist/main.min.js:1
+msgid "View all"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/backdrops/index.js:202
+#: assets/editor/src/js/components/docker/backdrops/index.js:254
+#: assets/editor/dist/main.min.js:1
+msgid "Background"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/backdrops/index.js:232
+#: assets/editor/dist/main.min.js:1
+msgid "Patterns"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/index.js:23
+#: assets/editor/dist/main.min.js:1
+msgid "Templates"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/index.js:37
+#: assets/editor/dist/main.min.js:1
+msgid "Elements"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/index.js:51
+#: assets/editor/dist/main.min.js:1
+msgid "Media"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/index.js:79
+#: assets/editor/dist/main.min.js:1
+msgid "Library"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/index.js:93
+#: assets/editor/dist/main.min.js:1
+msgid "Backdrops"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/index.js:109
+#: assets/editor/dist/main.min.js:1
+msgid "Layer"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/index.js:129
+#: assets/editor/dist/main.min.js:1
+msgid "Info"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:17
+#: assets/editor/dist/main.min.js:1
+msgid "Help Center"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:48
+#: assets/editor/dist/main.min.js:1
+msgid "Design a Certificate"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:53
+#: assets/editor/dist/main.min.js:1
+msgid "Choose any template to get started. Hover over your preferred template and click on Use This Template."
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:62
+#: assets/editor/dist/main.min.js:1
+msgid "Add elements like Course name, Student name, Instructor name, Verification ID, and more from the Elements tab according to your needs. These are dynamic and will be automatically derived from the course you’re creating the certificate for."
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:71
+#: assets/editor/dist/main.min.js:1
+msgid "Click on any elements and edit them inline. Choose from 1000+ Google Fonts, customize font weights, font size, type spacing, line height, and more."
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:80
+#: assets/editor/dist/main.min.js:1
+msgid "Upload images, logos, or use images from Unsplash from the media tab. Comes with drag & drop along with the inline editing option."
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:89
+#: assets/editor/dist/main.min.js:1
+msgid "Take different shapes, illustrations, badges, borders, frames, and watermarks from the Library tab and edit them your way"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:99
+#: assets/editor/dist/main.min.js:1
+msgid "Publish Created Certificate"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:104
+#: assets/editor/dist/main.min.js:1
+msgid "Once you have completed the certificate design, hit the Publish button at the top right corner."
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:114
+#: assets/editor/dist/main.min.js:1
+msgid "Assign Created Certificate to a Course"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:119
+#: assets/editor/dist/main.min.js:1
+msgid "Go to the front-end editor of the course to which you want to add the certificate. "
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:129
+#: assets/editor/dist/main.min.js:1
+msgid "Scroll down to the Certificate Template section, and you’ll see all the published certificate templates."
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:138
+#: assets/editor/dist/main.min.js:1
+msgid "Select the certificate that you have just published, and hit Publish Course/Update Course."
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:148
+#: assets/editor/dist/main.min.js:1
+msgid "Recommended Resources"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/info/index.js:160
+#: assets/editor/dist/main.min.js:1
+msgid "  Tutor LMS Certificate Builder Documentation"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/media/index.js:123
+#: assets/editor/src/js/components/media-upload/index.js:7
+#: assets/editor/dist/main.min.js:1
+msgid "Upload File"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/media/index.js:176
+#: assets/editor/dist/main.min.js:1
+msgid "My Files"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/media/index.js:182
+#: assets/editor/dist/main.min.js:1
+msgid "Unsplash"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/photos/index.js:67
+#: assets/editor/dist/main.min.js:1
+msgid "No photos found!"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/photos/photo.js:118
+#: assets/editor/dist/main.min.js:1
+msgid "Photo"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/settings/index.js:46
+#: assets/editor/dist/main.min.js:1
+msgid "Settings"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/settings/index.js:51
+#: assets/editor/dist/main.min.js:1
+msgid "Choose Size"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/settings/index.js:78
+#: assets/editor/dist/main.min.js:1
+msgid "Letter"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/settings/index.js:79
+#: assets/editor/src/js/components/docker/settings/index.js:105
+#: assets/editor/dist/main.min.js:1
+msgid "(792px X 612px)"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/settings/index.js:104
+#: assets/editor/dist/main.min.js:1
+msgid "A4"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/settings/index.js:154
+#: assets/editor/dist/main.min.js:1
+msgid "Bleed & Spacing"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/shapes/index.js:9
+#: assets/editor/dist/main.min.js:1
+msgid "Shape"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/shapes/index.js:10
+#: assets/editor/dist/main.min.js:1
+msgid "Illustration"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/shapes/index.js:11
+#: assets/editor/dist/main.min.js:1
+msgid "Badge"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/shapes/index.js:12
+#: assets/editor/dist/main.min.js:1
+msgid "Border"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/shapes/index.js:13
+#: assets/editor/dist/main.min.js:1
+msgid "Frames"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/shapes/index.js:14
+#: assets/editor/dist/main.min.js:1
+msgid "Watermarks"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/shapes/index.js:154
+#: assets/editor/dist/main.min.js:1
+msgid "back"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/templates/singleTemplate.js:30
+#: assets/editor/dist/main.min.js:1
+msgid "Are you sure you want to move to a different template? All of your modifications on the current one will be lost."
+msgstr ""
+
+#: assets/editor/src/js/components/docker/templates/templatesData.js:6
+#: assets/editor/dist/main.min.js:1
+msgid "Professional"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/templates/templatesData.js:7
+#: assets/editor/dist/main.min.js:1
+msgid "Creatives"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/templates/templatesData.js:8
+#: assets/editor/dist/main.min.js:1
+msgid "Kids"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/templates/templatesData.js:9
+#: assets/editor/dist/main.min.js:1
+msgid "Achievement"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/templates/templatesData.js:10
+#: assets/editor/dist/main.min.js:1
+msgid "Minimal"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/templates/templatesData.js:11
+#: assets/editor/dist/main.min.js:1
+msgid "Musical"
+msgstr ""
+
+#: assets/editor/src/js/components/docker/templates/templatesData.js:12
+#: assets/editor/dist/main.min.js:1
+msgid "University"
+msgstr ""
+
+#: assets/editor/src/js/components/element/components/element-settings.js:190
+#: assets/editor/src/js/components/element/components/photo-settings.js:183
+#: assets/editor/src/js/components/element/components/svg-settings.js:178
+#: assets/editor/dist/main.min.js:1
+msgid "Flip Vertical"
+msgstr ""
+
+#: assets/editor/src/js/components/element/components/element-settings.js:209
+#: assets/editor/src/js/components/element/components/photo-settings.js:202
+#: assets/editor/src/js/components/element/components/svg-settings.js:197
+#: assets/editor/dist/main.min.js:1
+msgid "Flip Horizontal"
+msgstr ""
+
+#: assets/editor/src/js/components/element/components/element-settings.js:212
+#: assets/editor/src/js/components/element/components/photo-settings.js:205
+#: assets/editor/src/js/components/element/components/svg-settings.js:200
+#: assets/editor/dist/main.min.js:1
+msgid "Position"
+msgstr ""
+
+#: assets/editor/src/js/components/element/components/element-settings.js:226
+#: assets/editor/src/js/components/element/components/photo-settings.js:219
+#: assets/editor/src/js/components/element/components/svg-settings.js:214
+#: assets/editor/dist/main.min.js:1
+msgid "Transparency"
+msgstr ""
+
+#: assets/editor/src/js/components/element/outline-new/index.js:168
+#: assets/editor/dist/main.min.js:1
+msgid "Upload"
+msgstr ""
+
+#: assets/editor/src/js/components/element/outline-new/index.js:184
+#: assets/editor/dist/main.min.js:1
+msgid "Replace"
+msgstr ""
+
+#: assets/editor/src/js/components/Header.js:234
+#: assets/editor/dist/main.min.js:1
+msgid "%sCertificate%s Builder"
+msgstr ""
+
+#: assets/editor/src/js/components/Header.js:291
+#: assets/editor/dist/main.min.js:1
+msgid "Preview"
+msgstr ""
+
+#: assets/editor/src/js/components/Header.js:297
+#: assets/editor/dist/main.min.js:1
+msgid "Updating..."
+msgstr ""
+
+#: assets/editor/src/js/components/Header.js:299
+#: assets/editor/src/js/components/Header.js:309
+#: assets/editor/dist/main.min.js:1
+msgid "Publish"
+msgstr ""
+
+#: assets/editor/src/js/components/modal-popover/notification/MessagePopover.js:51
+#: assets/editor/dist/main.min.js:1
+msgid "Successful"
+msgstr ""
+
+#: assets/editor/src/js/components/modal-popover/notification/MessagePopover.js:52
+#: assets/editor/dist/main.min.js:1
+msgid "Failed"
+msgstr ""
+
+#: assets/editor/src/js/components/rich-text/fontSettings.js:239
+#: assets/editor/dist/main.min.js:1
+msgid "Font Weight"
+msgstr ""
+
+#: assets/editor/src/js/components/rich-text/fontSettings.js:286
+#: assets/editor/dist/main.min.js:1
+msgid "Font Size"
+msgstr ""
+
+#: assets/editor/src/js/components/rich-text/fontSettings.js:369
+#: assets/editor/dist/main.min.js:1
+msgid "Type Spacing"
+msgstr ""
+
+#: assets/editor/src/js/components/rich-text/fontSettings.js:407
+#: assets/editor/dist/main.min.js:1
+msgid "Line Height"
+msgstr ""
+
+#: assets/editor/src/js/components/rich-text/webFonts.js:142
+#: assets/editor/dist/main.min.js:1
+msgid "Search font"
+msgstr ""
+
+#: assets/editor/src/js/components/svg-icons/getCommonIcon.js:23
+#: assets/editor/src/js/components/svg-icons/getElementIcon.js:255
+#: assets/editor/dist/main.min.js:1
+msgid "pass element name"
+msgstr ""
+
+#: assets/editor/src/js/components/zoom.js:9
+#: assets/editor/dist/main.min.js:1
+msgid "300"
+msgstr ""
+
+#: assets/editor/src/js/components/zoom.js:10
+#: assets/editor/dist/main.min.js:1
+msgid "200"
+msgstr ""
+
+#: assets/editor/src/js/components/zoom.js:11
+#: assets/editor/dist/main.min.js:1
+msgid "150"
+msgstr ""
+
+#: assets/editor/src/js/components/zoom.js:12
+#: assets/editor/dist/main.min.js:1
+msgid "100"
+msgstr ""
+
+#: assets/editor/src/js/components/zoom.js:13
+#: assets/editor/dist/main.min.js:1
+msgid "50"
+msgstr ""
+
+#: assets/editor/src/js/components/zoom.js:14
+#: assets/editor/dist/main.min.js:1
+msgid "40"
+msgstr ""
+
+#: assets/editor/src/js/components/zoom.js:15
+#: assets/editor/dist/main.min.js:1
+msgid "Zoom to fit"
+msgstr ""
+
+#: assets/editor/src/js/components/zoom.js:16
+#: assets/editor/dist/main.min.js:1
+msgid "Reset"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/course/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Course"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/duration/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Duration"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/grade/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Grade"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/header/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Text"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/instructor/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Instructor"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/point/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Point"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/qr-code/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "QR"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/signature/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Signature"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/student/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Student Name"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/time-date/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Time"
+msgstr ""
+
+#: assets/editor/src/js/elementLibrary/verification-id/index.js:5
+#: assets/editor/dist/main.min.js:1
+msgid "Verification ID"
+msgstr ""
